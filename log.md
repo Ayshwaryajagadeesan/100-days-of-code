@@ -14,10 +14,24 @@
 
 **Thoughts:** I completed the todo app I started yesterday. The add functionality and remove functionality works fine for my app.I plan to make the app more user friendly and publish it in the google play.
 
-### Day 1: May 5, 2020 
+### Day 2: May 5, 2020 
 
 
 **Today's Progress**: Completed edit functionality of simple to do app .
 
 **Thoughts:** I completed edit functionality that works fine for my app.I plan to make the app more user friendly and publish it in the google play.
+### Day 3: May 6, 2020 
+
+
+**Today's Progress**: Started with python bootcamp udemy.
+
+**Thoughts:** I started with python bootcamp in udemy. I was thinking of improving the todo app design
+
+### Day 4: May 7, 2020 
+
+
+**Today's Progress**: Worked on Flickster app in codepath.
+
+**Thoughts:** I finished the flickster app in codepath.I completed the basic functionality but it needs more debugging
+
 
