@@ -33,5 +33,10 @@
 **Today's Progress**: Worked on Flickster app in codepath.
 
 **Thoughts:** I finished the flickster app in codepath.I completed the basic functionality but it needs more debugging
+### Day 5: May 8, 2020 
 
+
+**Today's Progress**: Fixed Flickster app.
+
+**Thoughts:** I fixed the flickster app. The layout alignment works fine. I started with newyorktimes search app, image is not loading. Need to work on it more.
 
