@@ -40,3 +40,9 @@
 
 **Thoughts:** I fixed the flickster app. The layout alignment works fine. I started with newyorktimes search app, image is not loading. Need to work on it more.
 
+### Day 6: May 9, 2020 
+
+
+**Today's Progress**: Attended codepath ios app.
+
+**Thoughts:** DAY6 I Attended 2 hours codepath demo for IOS apps . Learnt about Apple create ML, Apple core ML framework,rainforest,unsplash and spoonacular api! 
