@@ -46,3 +46,10 @@
 **Today's Progress**: Attended codepath ios app.
 
 **Thoughts:** DAY6 I Attended 2 hours codepath demo for IOS apps . Learnt about Apple create ML, Apple core ML framework,rainforest,unsplash and spoonacular api! 
+
+### Day 7: May 10, 2020 
+
+
+**Today's Progress**: Attended UDEMY class for python bootcamp and signed up for iot bootcamp.
+
+**Thoughts:** DAY7 I Attended Attended UDEMY class for python bootcamp and signed up for iot bootcamp.I plan to gift my dad one course. 
