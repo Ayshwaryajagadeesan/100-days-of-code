@@ -53,3 +53,10 @@
 **Today's Progress**: Attended UDEMY class for python bootcamp and signed up for iot bootcamp.
 
 **Thoughts:** DAY7 I Attended Attended UDEMY class for python bootcamp and signed up for iot bootcamp.I plan to gift my dad one course. 
+
+### Day 8: May 11, 2020 
+
+
+**Today's Progress**: Attended UDEMY class for python bootcamp .
+
+**Thoughts:** DAY8 I Attended Attended UDEMY class for python bootcamp . 
